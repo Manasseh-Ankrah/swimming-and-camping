@@ -76,7 +76,7 @@
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
- <img src="images/camp2.jpeg" style="height: 70vh;" class="d-block w-100" alt="...">                    <div class="carousel-caption d-none d-md-block bg-header">
+ <img src="images/camp2.jpeg" style="height: 60vh;" class="d-block w-100" alt="..."><div class="carousel-caption d-none d-md-block bg-header">
                         <h1>Pitch Types and Availablility</h1>
                     </div>
                 </div>

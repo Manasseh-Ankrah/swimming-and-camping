@@ -87,7 +87,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline services-head text-center">
-                    <h2 class="m-4" style="color:green">Features and Amenities avilable</h2>
+                    <h2 class="m-4" style="color:green">Features and Amenities Available</h2>
                 </div>
             </div>
         </div>
@@ -145,16 +145,16 @@
                 </div>
             </div>
             <div class="col-md-4 ml-3 mt-1 feature-content text-center">
-                <h4 class="info-header mt-5">Wearable Technology Categories!</h4>
+                <h4 class="info-header mt-5">Wearable Technology Categories</h4>
                 <ul class="list-cont">
                     <li class="mt-2">
-                        <i class="bi bi-check icon-check"></i> Apple
+                        <i class="bi bi-check icon-check">Distance Calculator</i> 
                     </li>
                     <li class="mt-2">
-                        <i class="bi bi-check icon-check"></i> Techno Smart
+                        <i class="bi bi-check icon-check">Wrist Watch</i> 
                     </li>
                     <li class="mt-2">
-                        <i class="bi bi-check icon-check"></i> Huawei Smart Watch
+                        <i class="bi bi-check icon-check">Electronic Glasses</i> 
                     </li>
                 </ul>
                 
